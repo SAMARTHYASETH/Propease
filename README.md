@@ -38,7 +38,7 @@ Propease is a modern real estate web application built with the MERN (MongoDB, E
 1. Clone the repository:
 
    bash
-   git clone https://github.com/Ananya01Agrawal/Real-estate-Booking-Website.git
+   git clone https://github.com/SAMARTHYASETH/Propease.git
    
 
 2. Change into the project directory:
@@ -103,8 +103,3 @@ Contributions are welcome! Please follow these steps to contribute to the projec
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-## Contact
-
-1. [GITHUB](https://github.com/Ananya01Agrawal)
-2. [LINKEDIN](https://www.linkedin.com/in/ananya-agrawal-9727b2230/)
